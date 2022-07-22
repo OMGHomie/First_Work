@@ -8,4 +8,4 @@ C plus plus笔记主要包含基础语法、以及常见的面试知识点和一
 
 ## Basic
 
-Hello CP^n world!!
+**"Talk is cheap, show me the code"**
